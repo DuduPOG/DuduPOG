@@ -1,5 +1,5 @@
 ### 🧠 Sobre mim
-- 🎓 4º período de TADS no IFRN-CNAT  
+- 🎓 5º período de TADS no IFRN-CNAT  
 - 💻 Foco em desenvolvimento Fullstack
 - 🏖️ Potiguar de coração  
 - ⚽ Apaixonado por futebol, torcedor do Flamengo-RJ
@@ -11,17 +11,17 @@
 
 #### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,angular,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,ts,nextsjs,react,angular,tailwind" />
 </p>
 
 #### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,django,postgres" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,postgres" />
 </p>
 
 #### 🛠️ Ferramentas
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,postman" />
+<img src="https://skillicons.dev/icons?i=git,docker,postman,copilot" />
 </p>
 
 ---
